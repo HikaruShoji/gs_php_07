@@ -7,7 +7,7 @@
 ・2列のレイアウトにしました。<br/>
 
 質問・疑問（あれば）<br/>
-・detail.phpでinputに記述した、　value="<?=$row["industry"]?>"を、<br/>
+・detail.phpでinputに記述した、　"value="<?=$row["industry"]?>""を、<br/>
 selectタグで行う時のやり方を教えていただきたいです。<br/>
 
 その他（感想、シェアしたいことなんでも）<br/>
